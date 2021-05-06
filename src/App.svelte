@@ -4,14 +4,6 @@
 </script>
 
 <!-- This part is always displayed -->
-<!-- 	<p>Navigation</p>
-	<ul>
-		<li><a href="#/home">Home</a></li>
-		<li><a href="#/contact">Contact</a></li>
-		<li><a href="#/user/Max">Max</a></li>
-		<li><a href="#/user/Alex">Alex</a></li>
-	</ul> -->
-
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
 	<div class="container-fluid">
 		<a class="navbar-brand" href="#/">Infections DB</a>
